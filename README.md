@@ -2,18 +2,18 @@
 
 An interactive visualization tool for **Pathfinding Algorithms, Maze Generators, and Recursion Trees**.
 
-## 🚀 Features
+##  Features
 - Pathfinding Algorithms: BFS, DFS, Dijkstra, A*
 - Maze Algorithms: Recursive Division, Binary Tree
 - Recursion Trees: Fibonacci (SVG layout)
 
-## 🛠️ Tech Stack
+## Tech Stack
 - React + Vite
 - TailwindCSS
 - Framer Motion (optional for future animations)
 - D3.js (installed; not required for current SVG tree)
 
-## ▶️ Getting Started
+## Getting Started
 ```bash
 npm install
 npm run dev
@@ -26,4 +26,4 @@ Open `http://localhost:5173` in your browser.
 - **Recursion Trees**: pick `n` for Fibonacci → **Build Tree**.
 
 ---
-Made with ❤️ for learning algorithms interactively.
+Made with love for learning algorithms interactively.
