@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { color-scheme: light dark; }
+body { margin: 0; }
+button { @apply px-3 py-2 rounded-lg bg-slate-800 text-white hover:bg-slate-700 disabled:opacity-50; }
+select, input[type="number"], input[type="text"] { @apply bg-white text-slate-900 px-2 py-1 rounded border; }
+.panel { @apply bg-white text-slate-900 rounded-2xl p-3 shadow; }
