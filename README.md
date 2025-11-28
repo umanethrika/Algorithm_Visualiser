@@ -18,7 +18,6 @@ An interactive visualization tool for **Pathfinding Algorithms, Maze Generators,
 npm install
 npm run dev
 ```
-Open `http://localhost:5173` in your browser.
 
 ### Controls
 - **Pathfinding**: choose algorithm, drag/click to toggle walls. **Shift+Click** to set Start, **Alt+Click** to set End. Click **Run**.
